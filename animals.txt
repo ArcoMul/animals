@@ -2,3 +2,4 @@ goose
 duck
 cat
 mouse
+rat
